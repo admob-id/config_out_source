@@ -1,6 +1,6 @@
 {
   "timeShowAds": 10,
-  "timeShowAdsOpenApp": 120000,
+  "timeShowAdsOpenApp": 9999999999,
   "adsmodel": [
     {
       "priority": "GOOGLE",
