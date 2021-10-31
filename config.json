@@ -1,6 +1,7 @@
 {
   "timeShowAds": 10,
-  "timeShowAdsOpenApp": 9999999999,
+  "timeShowAdsOpenApp": 120000,
+  "openApp": "ca-app-pub-3940256099942544/3419835294",
   "adsmodel": [
     {
       "priority": "GOOGLE",
@@ -8,12 +9,11 @@
       "banner": "ca-app-pub-3940256099942544/6300978111",
       "native": "ca-app-pub-3940256099942544/2247696110",
       "rewared": "ca-app-pub-3940256099942544/5224354917",
-      "openApp":"",
       "isShowAds": true
     }
   ],
   "priorities": ["GOOGLE"],
   "product": ["pqoduct_id1", "pqoduct_id2", "pqoduct_id3"],
-  "mail_feedback":"abc@gmail.com",
-  "proxy_link":"https://policies.google.com/privacy?hl=en"
+  "mail_feedback": "abc@gmail.com",
+  "proxy_link": "https://policies.google.com/privacy?hl=en"
 }
